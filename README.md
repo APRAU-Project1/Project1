@@ -24,10 +24,8 @@ This project is a comprehensive exploration of machine learning techniques and t
 ## Project Description
 The objective of this project is to analyze and model a dataset using machine learning algorithms. We will focus on understanding the underlying patterns within the data, applying various techniques for feature selection, and ultimately building a predictive model that can generalize well to new, unseen data.
 
-## Dataset
-- The dataset used in this project is [insert dataset name or description].
-- Key features include [insert relevant features].
-- The target variable is [insert target variable].
+## Targe variable
+- The target variable is [vegetation_type].
 
 ## Installation
 To run this notebook, you will need to install the following Python packages:
